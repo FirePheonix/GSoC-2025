@@ -25,13 +25,6 @@ Music Blocks has a feature to detect the color of pixels generated from drawing 
 
 ## Goals
 
-The main objectives of this project were to enhance the project management and learning experience in Music Blocks and Turtle Blocks by introducing a Git-based backend. Specifically, the project aimed to:
-
-- **Replace the Planet system:** Improve the existing project storage system to support version control and better project management.
-- **Enable Project Commits and Edits:** Allow students to create, save, and update their own projects, with a record of all changes.
-- **Support Forking of Projects:** Let students explore and build upon other users’ projects, fostering collaboration and peer learning.
-- **Provide Project History Navigation:** Enable students to view the complete history of a project, reflecting on how it has evolved over time.
-- **Allow Project Downloads:** Give students the option to download their projects for offline use or portfolio creation.
 
 
 The main objectives of this project were to extend the functionality of Music Blocks by enhancing its ability to detect colors not only from drawings generated within the program but also from external sources such as uploaded images and live webcam streams. Specifically, the project aimed to:
